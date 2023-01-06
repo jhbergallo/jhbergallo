@@ -8,5 +8,4 @@
 - Pronouns: He/Him 🤗
 - Fun fact: I love animals off all kinds, specially cats 🐈
 
-
 ![Snake animation](https://github.com/jhbergallo/jhbergallo/blob/output/github-contribution-grid-snake.svg)
