@@ -1,7 +1,7 @@
    ### Hi there 👋
 
 - I'm João Bergallo 🙂
-- I’m a Software Engeneering student in second semester at PUCRS 📚
+- I’m a Software Engineering student in second semester at PUCRS 📚
 - My most used languages are JavaScript, HTML5, CSS3 and Java 🖥
 - Despite studying programming, I love taking apart and reparing a computer or a phone 🤖
 - Passionate about helping people and solving problems 🚀
