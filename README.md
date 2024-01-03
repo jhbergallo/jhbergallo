@@ -1,7 +1,8 @@
    ### Hi there 👋
 
 - I'm João Bergallo 🙂
-- I’m a Software Engineering student in 3rd semester at PUCRS 📚
+- I’m a Software Engineering student in 4th semester at PUCRS 📚
+- Taking special interest in Machine Learning and Swift programming 👨🏻‍💻
 - Despite studying programming, I love taking apart and reparing a computer or a phone 🤖
 - Passionate about helping people and solving problems 🚀
 - Pronouns: He/Him 🤗
