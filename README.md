@@ -1,8 +1,8 @@
    ### Hi there 👋
 
 - I'm João Bergallo 🙂
-- I’m a Software Engineering student in 5th semester at PUCRS and 1st semester Bioinformatics student at UFCSPA📚
-- Taking special interest in Machine Learning and Data Science 👨🏻‍💻
+- I’m a Software Engineering student at PUCRS and Bioinformatics student at UFCSPA📚
+- Working with Machine Learning and Data Science, which is one of my passions 👨🏻‍💻
 - Despite studying programming, I love taking apart and reparing a computer or a phone 🤖
 - Passionate about helping people and solving problems 🚀
 - Pronouns: He/Him 🤗
